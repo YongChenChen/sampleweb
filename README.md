@@ -1,1 +1,1 @@
-# sampleweb
+# EP1000-webtemplate
