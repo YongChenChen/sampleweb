@@ -10,7 +10,14 @@
 <div id="nav">
 <u1>
 <li><a class="selected"href="Main1">home</a></li>
-
+<li><a class="selected"href="01-safety.html">Safety</a></li>
+<li><a class="selected"href="02-tools.html">Tools</a></li>
+<li><a class="selected"href="03-web.html">Web development</a></li>
+<li><a class="selected"href="04-cad.html;">CAD</a></li>
+<li><a class="selected"href="05-3dprint.html">3D Printing</a></li>
+<li><a class="selected"href="06-laser.html">Laser Cutting</a></li>
+<li><a class="selected"href="09-project.html">home</a></li>
+<li><a class="selected"href="about,html">About me</a></li>
 </div>
 <div id="main">
 <h2>main</h2>
