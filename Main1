@@ -8,7 +8,10 @@
 </div>
 <div id="content">
 <div id="nav">
-<div>
+<u1>
+<li><a class="selected"href="Main1">home</a></li>
+
+</div>
 <div id="main">
 <h2>main</h2>
 </div>
