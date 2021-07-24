@@ -1,0 +1,21 @@
+<html>
+<head>
+<title> My Website </title>
+</head>
+<body>
+<div id="container">
+<div id="header">
+</div>
+<div id="content">
+<div id="nav">
+<div>
+<div id="main">
+<h2>main</h2>
+</div>
+</div>
+<div id="footer">
+<b>Copyright &copy; Yong Chen Chen 2021</b>
+</div>
+</div>
+</body>
+</html>
