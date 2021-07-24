@@ -12,14 +12,14 @@ body {
 
 a {
 	text-decoration: none;
-	color: #003EFF
+	color: #003EFF;
 
 h1, h2, h3 {
 	margin: 0;
 } 
 
 #header {
-	background-color: #CCCCFF;
+	background-color:CCCCFF;
 	color: white;
 	text-align: center;
 	padding: 10px;
