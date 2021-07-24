@@ -1,5 +1,5 @@
 body {
-	background-color: ##CCCCFF;
+	background-color: #EEE;
 	font-family: Helvitica, Arial, sans-serif;
 }
 
@@ -12,15 +12,14 @@ body {
 
 a {
 	text-decoration: none;
-	color: #58FF3B
-}
+	color: #003EFF
 
 h1, h2, h3 {
 	margin: 0;
 } 
 
 #header {
-	background-color: #669900;
+	background-color: #CCCCFF;
 	color: white;
 	text-align: center;
 	padding: 10px;
